@@ -1,0 +1,22 @@
+.estilo{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.alinhamento{
+    display: flex;
+    flex-direction: column;
+}
+
+.alinhamento_menor{
+    display: flex;
+    flex-direction: row;
+}
+
+.resultado{
+    border: 1px solid black;
+    width: 100px;
+    height: 40px;
+}
